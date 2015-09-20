@@ -1,7 +1,7 @@
 # simple_submarine
 Dark Gedit theme inpired on the sea
 
- This theme is 100% an open source
+ This theme is 100% and open source
  
  Please share
  
