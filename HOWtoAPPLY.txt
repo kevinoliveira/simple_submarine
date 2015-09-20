@@ -1,0 +1,4 @@
+INTRUCTIONS:
+1-Open Gedit
+2-Open Menu -> Edit -> Preferences -> Font&Colors -> Color Scheme_>+ -> open simplesubmarine.xml
+3-DONE!
