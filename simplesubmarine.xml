@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+ This theme is 100% an open source
+ Please share
+ Made in Brazilian territory
+ author kevin oliveira
+ contact kevin.oliveira@live.com
+
+
+"Today quite understand my father. A man must travel.
+ On his own, not through stories, pictures, books or TV.
+ By his own, with his eyes and feet, to understand what is yours.
+ To some day plant his own trees and give them value.
+ Knowing the cold to enjoy the warmth. And the opposite.
+ Feel the distance and homelessness to be well under his own roof.
+ A man must travel to places that do not know to break this arrogance that makes us see the world as we imagine,
+ not just how it is that makes us teachers and doctors of what we saw when we should be students, just go and see "
+
+	Amyr Klink
+
+
+
+"Hoje entendo bem meu pai. Um homem precisa viajar.
+ Por sua conta, não por meio de histórias, imagens, livro ou TV.
+ Precisa viajar por si,com seus olhos e pés, para entender o que é seu.
+ Para um dia plantar suas próprias árvores e dar-lhes valor. Conhecer o frio para desfrutar do calor.
+ E o oposto. Sentir a distância e o desabrigo para estar bem sob o próprio teto.
+ Um homem precisa viajar para lugares que não conhece,
+ para quebrar essa arrogância que nos faz ver o mundo como imaginamos e não    simplesmente como ele é ou pode ser.
+ Que nos faz professores e doutores do que não vimos, quando deveríamos ser alunos, e simplesmente ir ver...
+ Il faut aller voir - é preciso ir ver! 
+ É preciso questionar o que se aprendeu.
+ É preciso ir tocá-lo".
+
+	Amyr Klink
+
+
+
+
+
+
+
+--><!---->
+
+<style-scheme id="SimpleSubmarine" _name="Simple Submarine" version="1.0">
+
+  <author>Kevin Oliveira</author>
+  <_description>The sea is not an obstacle is a path</_description>
+
+  <!-- Tango Palette -->
+  <color name="fish1"                      value="#CCB100"/><!---->
+  <color name="fish2"                      value="#9C8700"/><!---->
+  <color name="fish3"                      value="#7A6A00"/><!---->
+  <color name="algae1"                     value="#007A00"/><!---->
+  <color name="algae2"                     value="#005200"/><!---->
+  <color name="algae3"                     value="#002900"/><!---->
+  <color name="garibaldi1"                 value="#E07400"/><!---->
+  <color name="garibaldi2"                 value="#BF6300"/><!---->
+  <color name="garibaldi3"                 value="#8F4A00"/><!---->
+  <color name="sailfish1"                  value="#729fcf"/>
+  <color name="sailfish2"                  value="#3465a4"/>
+  <color name="sailfish3"                  value="#204a87"/>
+  <color name="indian1"                    value="#0B9176"/><!---->
+  <color name="indian2"                    value="#09725D"/><!---->
+  <color name="indian3"                    value="#064C3E"/><!---->
+  <color name="octopus1"                   value="#e9b96e"/>
+  <color name="octopus2"                   value="#c17d11"/>
+  <color name="octopus3"                   value="#8f5902"/>
+  <color name="goldenfish1"                value="#edd000"/><!---->
+  <color name="goldenfish2"                value="#edbe00"/><!---->
+  <color name="goldenfish3"                value="#edac00"/><!---->
+  <color name="atlantic1"                  value="#125069"/><!---->
+  <color name="atlantic2"                  value="#0F4357"/><!---->
+  <color name="atlantic3"                  value="#0C3546"/><!---->
+  <color name="atlantic4"                  value="#092834"/><!---->
+  <color name="atlantic5"                  value="#061B23"/><!---->
+  <color name="atlantic6"                  value="#030D11"/><!---->
+
+  <!-- Global Settings -->
+  <style name="text"                        foreground="atlantic2" background="atlantic6"/>
+  <style name="selection"                   foreground="atlantic1" background="atlantic4"/>
+  <style name="cursor"                      foreground="atlantic2"/>
+  <style name="current-line"                background="atlantic5"/>
+  <style name="line-numbers"                foreground="atlantic5" background="#black"/>
+  <style name="draw-spaces"                 foreground="atlantic4"/>
+
+  <!-- Bracket Matching -->
+  <style name="bracket-match"               foreground="atlantic1" background="atlantic3" bold="true"/>
+  <style name="bracket-mismatch"            foreground="atlantic1" background="goldenfish2" bold="true"/>
+
+  <!-- Right Margin -->
+  <style name="right-margin"                foreground="atlantic1" background="atlantic4"/>
+  
+  <!-- Search Matching -->
+  <style name="search-match"                foreground="atlantic1" background="algae3"/>
+
+  <!-- Comments -->
+  <style name="def:comment"                 foreground="atlantic4"/>
+  <style name="def:shebang"                 foreground="atlantic4" bold="true"/>
+  <style name="def:doc-comment-element"     italic="true"/>
+
+  <!-- Constants -->
+  <style name="def:constant"                foreground="fish2"/>
+  <style name="def:string"                  foreground="fish2"/>
+  <style name="def:special-char"            foreground="garibaldi3"/>
+  <style name="def:special-constant"        foreground="garibaldi3"/>
+  <style name="def:floating-point"          foreground="garibaldi3"/>
+
+  <!-- Identifiers -->
+  <style name="def:identifier"              foreground="sailfish1"/>
+
+  <!-- Statements -->
+  <style name="def:statement"               foreground="#darkcyan" bold="true"/>
+
+  <!-- Types -->
+  <style name="def:type"                    foreground="algae1" bold="true"/> 
+
+  <!-- Others -->
+  <style name="def:preprocessor"            foreground="indian1"/>
+  <style name="def:error"                   foreground="atlantic1" background="goldenfish2" bold="true"/>
+  <style name="def:note"                    background="fish1" foreground="atlantic4" bold="true"/>
+  <style name="def:underlined"              italic="true" underline="true"/>
+
+  <!-- Language specific -->
+  <style name="diff:added-line"             foreground="fish2"/>
+  <style name="diff:removed-line"           foreground="sailfish1"/>
+  <style name="diff:changed-line"           foreground="indian1"/>
+  <style name="diff:diff-file"              foreground="algae1" bold="true"/> 
+  <style name="diff:location"               foreground="algae1"/> 
+  <style name="diff:special-case"           foreground="#darkcyan" bold="true"/>
+
+</style-scheme>
