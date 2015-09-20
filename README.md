@@ -1,9 +1,14 @@
 # simple_submarine
 Dark Gedit theme inpired on the sea
+
  This theme is 100% an open source
+ 
  Please share
+ 
  Made in Brazilian territory
+ 
  author kevin oliveira
+ 
  contact kevin.oliveira@live.com
 
 
