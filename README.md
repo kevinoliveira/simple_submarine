@@ -10,8 +10,7 @@ Dark Gedit theme inpired on the sea
  Made in Brazilian territory
  
  Author: kevin oliveira
- 
- Contact: kevin.oliveira@live.com
+
 
 
 	"Today quite understand my father. A man must travel.
